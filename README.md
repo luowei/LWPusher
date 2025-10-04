@@ -74,6 +74,14 @@ LWPusher is available through [CocoaPods](https://cocoapods.org), the dependency
 pod 'LWPusher'
 ```
 
+For Swift version, use:
+
+```ruby
+pod 'LWPusher_swift'
+```
+
+See [Swift Version Documentation](README_SWIFT_VERSION.md) for more details.
+
 2. Install the pod by running:
 
 ```bash

@@ -30,8 +30,9 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'LWPusher/Classes/**/*','LWPusher/XGPush/*.{h,m}'
-  
+  s.source_files = 'LWPusher/Classes/**/*.{h,m}','LWPusher/XGPush/*.{h,m}'
+  s.exclude_files = 'LWPusher/Swift/**/*.swift'
+
   # s.resource_bundles = {
   #   'LWPusher' => ['LWPusher/Assets/*.png']
   # }

@@ -1,0 +1,3485 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "LWPusher.podspec.swift",
+      "file_type": "code",
+      "source_file": "LWPusher.podspec.swift",
+      "source_location": "L1",
+      "id": "lwpusher_podspec_swift",
+      "community": 10,
+      "norm_label": "lwpusher.podspec.swift"
+    },
+    {
+      "label": "LWViewController.h",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWViewController.h",
+      "source_location": "L1",
+      "id": "example_lwpusher_lwviewcontroller_h",
+      "community": 11,
+      "norm_label": "lwviewcontroller.h"
+    },
+    {
+      "label": "LWAppDelegate.h",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWAppDelegate.h",
+      "source_location": "L1",
+      "id": "example_lwpusher_lwappdelegate_h",
+      "community": 12,
+      "norm_label": "lwappdelegate.h"
+    },
+    {
+      "label": "main.m",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/main.m",
+      "source_location": "L1",
+      "id": "example_lwpusher_main_m",
+      "community": 13,
+      "norm_label": "main.m"
+    },
+    {
+      "label": "LWAppDelegate.m",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L1",
+      "id": "example_lwpusher_lwappdelegate_m",
+      "community": 8,
+      "norm_label": "lwappdelegate.m"
+    },
+    {
+      "label": "LWAppDelegate",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L12",
+      "id": "lwpusher_lwappdelegate_lwappdelegate",
+      "community": 8,
+      "norm_label": "lwappdelegate"
+    },
+    {
+      "label": "-applicationdidFinishLaunchingWithOptions",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L14",
+      "id": "lwpusher_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "community": 8,
+      "norm_label": "-applicationdidfinishlaunchingwithoptions"
+    },
+    {
+      "label": "-applicationWillResignActive",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L23",
+      "id": "lwpusher_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "community": 8,
+      "norm_label": "-applicationwillresignactive"
+    },
+    {
+      "label": "-applicationDidEnterBackground",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L28",
+      "id": "lwpusher_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "community": 8,
+      "norm_label": "-applicationdidenterbackground"
+    },
+    {
+      "label": "-applicationWillEnterForeground",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L33",
+      "id": "lwpusher_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "community": 8,
+      "norm_label": "-applicationwillenterforeground"
+    },
+    {
+      "label": "-applicationDidBecomeActive",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L37",
+      "id": "lwpusher_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "community": 8,
+      "norm_label": "-applicationdidbecomeactive"
+    },
+    {
+      "label": "-applicationWillTerminate",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L41",
+      "id": "lwpusher_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "community": 8,
+      "norm_label": "-applicationwillterminate"
+    },
+    {
+      "label": "LWViewController.m",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWViewController.m",
+      "source_location": "L1",
+      "id": "example_lwpusher_lwviewcontroller_m",
+      "community": 9,
+      "norm_label": "lwviewcontroller.m"
+    },
+    {
+      "label": "LWViewController",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWViewController.m",
+      "source_location": "L12",
+      "id": "lwpusher_lwviewcontroller_lwviewcontroller",
+      "community": 9,
+      "norm_label": "lwviewcontroller"
+    },
+    {
+      "label": "-viewDidLoad",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWViewController.m",
+      "source_location": "L19",
+      "id": "lwpusher_lwviewcontroller_lwviewcontroller_viewdidload",
+      "community": 9,
+      "norm_label": "-viewdidload"
+    },
+    {
+      "label": "-didReceiveMemoryWarning",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWViewController.m",
+      "source_location": "L24",
+      "id": "lwpusher_lwviewcontroller_lwviewcontroller_didreceivememorywarning",
+      "community": 9,
+      "norm_label": "-didreceivememorywarning"
+    },
+    {
+      "label": "-bindAction",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWViewController.m",
+      "source_location": "L29",
+      "id": "lwpusher_lwviewcontroller_lwviewcontroller_bindaction",
+      "community": 9,
+      "norm_label": "-bindaction"
+    },
+    {
+      "label": "-unbindAction",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/LWViewController.m",
+      "source_location": "L37",
+      "id": "lwpusher_lwviewcontroller_lwviewcontroller_unbindaction",
+      "community": 9,
+      "norm_label": "-unbindaction"
+    },
+    {
+      "label": "LWAppDelegate+LWPusher.h",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.h",
+      "source_location": "L1",
+      "id": "example_lwpusher_pusher_lwappdelegate_lwpusher_h",
+      "community": 14,
+      "norm_label": "lwappdelegate+lwpusher.h"
+    },
+    {
+      "label": "LWAppDelegate+LWPusher.m",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L1",
+      "id": "example_lwpusher_pusher_lwappdelegate_lwpusher_m",
+      "community": 5,
+      "norm_label": "lwappdelegate+lwpusher.m"
+    },
+    {
+      "label": "LWAppDelegate",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L10",
+      "id": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "community": 5,
+      "norm_label": "lwappdelegate"
+    },
+    {
+      "label": "-applicationdidRegisterUserNotificationSettings",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L12",
+      "id": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidregisterusernotificationsettings",
+      "community": 5,
+      "norm_label": "-applicationdidregisterusernotificationsettings"
+    },
+    {
+      "label": "-applicationdidRegisterForRemoteNotificationsWithDeviceToken",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L17",
+      "id": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidregisterforremotenotificationswithdevicetoken",
+      "community": 5,
+      "norm_label": "-applicationdidregisterforremotenotificationswithdevicetoken"
+    },
+    {
+      "label": "-applicationdidReceiveRemoteNotificationfetchCompletionHandler",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L29",
+      "id": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidreceiveremotenotificationfetchcompletionhandler",
+      "community": 5,
+      "norm_label": "-applicationdidreceiveremotenotificationfetchcompletionhandler"
+    },
+    {
+      "label": "-applicationdidFailToRegisterForRemoteNotificationsWithError",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L42",
+      "id": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidfailtoregisterforremotenotificationswitherror",
+      "community": 5,
+      "norm_label": "-applicationdidfailtoregisterforremotenotificationswitherror"
+    },
+    {
+      "label": "-applicationhandleActionWithIdentifierforRemoteNotificationwithResponseInfocompletionHandler",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L53",
+      "id": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationhandleactionwithidentifierforremotenotificationwithresponseinfocompletionhandler",
+      "community": 5,
+      "norm_label": "-applicationhandleactionwithidentifierforremotenotificationwithresponseinfocompletionhandler"
+    },
+    {
+      "label": "-applicationhandleActionWithIdentifierforRemoteNotificationcompletionHandler",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L57",
+      "id": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationhandleactionwithidentifierforremotenotificationcompletionhandler",
+      "community": 5,
+      "norm_label": "-applicationhandleactionwithidentifierforremotenotificationcompletionhandler"
+    },
+    {
+      "label": "-applicationhandleActionWithIdentifierforLocalNotificationcompletionHandler",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L62",
+      "id": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationhandleactionwithidentifierforlocalnotificationcompletionhandler",
+      "community": 5,
+      "norm_label": "-applicationhandleactionwithidentifierforlocalnotificationcompletionhandler"
+    },
+    {
+      "label": "-applicationhandleActionWithIdentifierforLocalNotificationwithResponseInfocompletionHandler",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L66",
+      "id": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationhandleactionwithidentifierforlocalnotificationwithresponseinfocompletionhandler",
+      "community": 5,
+      "norm_label": "-applicationhandleactionwithidentifierforlocalnotificationwithresponseinfocompletionhandler"
+    },
+    {
+      "label": "-applicationdidReceiveRemoteNotification",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L71",
+      "id": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidreceiveremotenotification",
+      "community": 5,
+      "norm_label": "-applicationdidreceiveremotenotification"
+    },
+    {
+      "label": "-applicationdidReceiveLocalNotification",
+      "file_type": "code",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L84",
+      "id": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidreceivelocalnotification",
+      "community": 5,
+      "norm_label": "-applicationdidreceivelocalnotification"
+    },
+    {
+      "label": "LWPushManager.h",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.h",
+      "source_location": "L1",
+      "id": "lwpusher_classes_lwpushmanager_h",
+      "community": 15,
+      "norm_label": "lwpushmanager.h"
+    },
+    {
+      "label": "LWPushManager.m",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L1",
+      "id": "lwpusher_classes_lwpushmanager_m",
+      "community": 0,
+      "norm_label": "lwpushmanager.m"
+    },
+    {
+      "label": "LWPushManager",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L13",
+      "id": "classes_lwpushmanager_lwpushmanager",
+      "community": 0,
+      "norm_label": "lwpushmanager"
+    },
+    {
+      "label": "-shareManager",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L23",
+      "id": "classes_lwpushmanager_lwpushmanager_sharemanager",
+      "community": 0,
+      "norm_label": "-sharemanager"
+    },
+    {
+      "label": "-xg_push_test",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L37",
+      "id": "classes_lwpushmanager_lwpushmanager_xg_push_test",
+      "community": 0,
+      "norm_label": "-xg_push_test"
+    },
+    {
+      "label": "-configAppIDappKey",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L112",
+      "id": "classes_lwpushmanager_lwpushmanager_configappidappkey",
+      "community": 0,
+      "norm_label": "-configappidappkey"
+    },
+    {
+      "label": "-startXGPush",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L119",
+      "id": "classes_lwpushmanager_lwpushmanager_startxgpush",
+      "community": 0,
+      "norm_label": "-startxgpush"
+    },
+    {
+      "label": "-stopXGPush",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L133",
+      "id": "classes_lwpushmanager_lwpushmanager_stopxgpush",
+      "community": 0,
+      "norm_label": "-stopxgpush"
+    },
+    {
+      "label": "-bindAccount",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L138",
+      "id": "classes_lwpushmanager_lwpushmanager_bindaccount",
+      "community": 0,
+      "norm_label": "-bindaccount"
+    },
+    {
+      "label": "-unbindAccount",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L156",
+      "id": "classes_lwpushmanager_lwpushmanager_unbindaccount",
+      "community": 0,
+      "norm_label": "-unbindaccount"
+    },
+    {
+      "label": "-handPushInApplicationDidFinishLaunchingWithOptions",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L167",
+      "id": "classes_lwpushmanager_lwpushmanager_handpushinapplicationdidfinishlaunchingwithoptions",
+      "community": 0,
+      "norm_label": "-handpushinapplicationdidfinishlaunchingwithoptions"
+    },
+    {
+      "label": "-handRemotePushNotificationWithUserInfo",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L175",
+      "id": "classes_lwpushmanager_lwpushmanager_handremotepushnotificationwithuserinfo",
+      "community": 0,
+      "norm_label": "-handremotepushnotificationwithuserinfo"
+    },
+    {
+      "label": "-userNotificationCenterwillPresentNotificationwithCompletionHandler",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L188",
+      "id": "classes_lwpushmanager_lwpushmanager_usernotificationcenterwillpresentnotificationwithcompletionhandler",
+      "community": 0,
+      "norm_label": "-usernotificationcenterwillpresentnotificationwithcompletionhandler"
+    },
+    {
+      "label": "-userNotificationCenterdidReceiveNotificationResponsewithCompletionHandler",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L192",
+      "id": "classes_lwpushmanager_lwpushmanager_usernotificationcenterdidreceivenotificationresponsewithcompletionhandler",
+      "community": 0,
+      "norm_label": "-usernotificationcenterdidreceivenotificationresponsewithcompletionhandler"
+    },
+    {
+      "label": "-userNotificationCenteropenSettingsForNotification",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L199",
+      "id": "classes_lwpushmanager_lwpushmanager_usernotificationcenteropensettingsfornotification",
+      "community": 0,
+      "norm_label": "-usernotificationcenteropensettingsfornotification"
+    },
+    {
+      "label": "-xgPushDidReceiveRemoteNotificationwithCompletionHandler",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L208",
+      "id": "classes_lwpushmanager_lwpushmanager_xgpushdidreceiveremotenotificationwithcompletionhandler",
+      "community": 0,
+      "norm_label": "-xgpushdidreceiveremotenotificationwithcompletionhandler"
+    },
+    {
+      "label": "-xgPushUserNotificationCenterwillPresentNotificationwithCompletionHandler",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L214",
+      "id": "classes_lwpushmanager_lwpushmanager_xgpushusernotificationcenterwillpresentnotificationwithcompletionhandler",
+      "community": 0,
+      "norm_label": "-xgpushusernotificationcenterwillpresentnotificationwithcompletionhandler"
+    },
+    {
+      "label": "-xgPushUserNotificationCenterdidReceiveNotificationResponsewithCompletionHandler",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L220",
+      "id": "classes_lwpushmanager_lwpushmanager_xgpushusernotificationcenterdidreceivenotificationresponsewithcompletionhandler",
+      "community": 0,
+      "norm_label": "-xgpushusernotificationcenterdidreceivenotificationresponsewithcompletionhandler"
+    },
+    {
+      "label": "-xgPushDidFinishStarterror",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L227",
+      "id": "classes_lwpushmanager_lwpushmanager_xgpushdidfinishstarterror",
+      "community": 0,
+      "norm_label": "-xgpushdidfinishstarterror"
+    },
+    {
+      "label": "-xgPushDidFinishStoperror",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L231",
+      "id": "classes_lwpushmanager_lwpushmanager_xgpushdidfinishstoperror",
+      "community": 0,
+      "norm_label": "-xgpushdidfinishstoperror"
+    },
+    {
+      "label": "-xgPushDidReportNotificationerror",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L237",
+      "id": "classes_lwpushmanager_lwpushmanager_xgpushdidreportnotificationerror",
+      "community": 0,
+      "norm_label": "-xgpushdidreportnotificationerror"
+    },
+    {
+      "label": "-xgPushDidSetBadgeerror",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L241",
+      "id": "classes_lwpushmanager_lwpushmanager_xgpushdidsetbadgeerror",
+      "community": 0,
+      "norm_label": "-xgpushdidsetbadgeerror"
+    },
+    {
+      "label": "-xgPushDidRegisteredDeviceTokenerror",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L245",
+      "id": "classes_lwpushmanager_lwpushmanager_xgpushdidregistereddevicetokenerror",
+      "community": 0,
+      "norm_label": "-xgpushdidregistereddevicetokenerror"
+    },
+    {
+      "label": "-xgPushDidBindWithIdentifiertypeerror",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L254",
+      "id": "classes_lwpushmanager_lwpushmanager_xgpushdidbindwithidentifiertypeerror",
+      "community": 0,
+      "norm_label": "-xgpushdidbindwithidentifiertypeerror"
+    },
+    {
+      "label": "-xgPushDidUnbindWithIdentifiertypeerror",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L258",
+      "id": "classes_lwpushmanager_lwpushmanager_xgpushdidunbindwithidentifiertypeerror",
+      "community": 0,
+      "norm_label": "-xgpushdidunbindwithidentifiertypeerror"
+    },
+    {
+      "label": "-openURL",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L266",
+      "id": "classes_lwpushmanager_lwpushmanager_openurl",
+      "community": 0,
+      "norm_label": "-openurl"
+    },
+    {
+      "label": "XGPush.h",
+      "file_type": "code",
+      "source_file": "LWPusher/Classes/XGPush/XGPush.h",
+      "source_location": "L1",
+      "id": "lwpusher_classes_xgpush_xgpush_h",
+      "community": 16,
+      "norm_label": "xgpush.h"
+    },
+    {
+      "label": "LWPushManager.swift",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L1",
+      "id": "lwpusher_swift_swift_lwpushmanager_swift",
+      "community": 1,
+      "norm_label": "lwpushmanager.swift"
+    },
+    {
+      "label": "pushLog()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L15",
+      "id": "swift_lwpushmanager_pushlog",
+      "community": 1,
+      "norm_label": "pushlog()"
+    },
+    {
+      "label": "LWPushManager",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L24",
+      "id": "swift_lwpushmanager_lwpushmanager",
+      "community": 1,
+      "norm_label": "lwpushmanager"
+    },
+    {
+      "label": "NSObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "nsobject",
+      "community": 7,
+      "norm_label": "nsobject"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L35",
+      "id": "swift_lwpushmanager_lwpushmanager_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".configure()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L44",
+      "id": "swift_lwpushmanager_lwpushmanager_configure",
+      "community": 1,
+      "norm_label": ".configure()"
+    },
+    {
+      "label": ".startXGPush()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L53",
+      "id": "swift_lwpushmanager_lwpushmanager_startxgpush",
+      "community": 1,
+      "norm_label": ".startxgpush()"
+    },
+    {
+      "label": ".stopXGPush()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L73",
+      "id": "swift_lwpushmanager_lwpushmanager_stopxgpush",
+      "community": 1,
+      "norm_label": ".stopxgpush()"
+    },
+    {
+      "label": ".bindAccount()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L87",
+      "id": "swift_lwpushmanager_lwpushmanager_bindaccount",
+      "community": 1,
+      "norm_label": ".bindaccount()"
+    },
+    {
+      "label": ".unbindAccount()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L99",
+      "id": "swift_lwpushmanager_lwpushmanager_unbindaccount",
+      "community": 1,
+      "norm_label": ".unbindaccount()"
+    },
+    {
+      "label": ".handlePushInApplicationDidFinishLaunching()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L122",
+      "id": "swift_lwpushmanager_lwpushmanager_handlepushinapplicationdidfinishlaunching",
+      "community": 1,
+      "norm_label": ".handlepushinapplicationdidfinishlaunching()"
+    },
+    {
+      "label": ".handleRemotePushNotification()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L127",
+      "id": "swift_lwpushmanager_lwpushmanager_handleremotepushnotification",
+      "community": 1,
+      "norm_label": ".handleremotepushnotification()"
+    },
+    {
+      "label": ".setBadgeNumber()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L136",
+      "id": "swift_lwpushmanager_lwpushmanager_setbadgenumber",
+      "community": 1,
+      "norm_label": ".setbadgenumber()"
+    },
+    {
+      "label": ".getBadgeNumber()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L145",
+      "id": "swift_lwpushmanager_lwpushmanager_getbadgenumber",
+      "community": 1,
+      "norm_label": ".getbadgenumber()"
+    },
+    {
+      "label": ".bindAccountInternal()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L156",
+      "id": "swift_lwpushmanager_lwpushmanager_bindaccountinternal",
+      "community": 1,
+      "norm_label": ".bindaccountinternal()"
+    },
+    {
+      "label": ".deviceNotificationIsAllowed()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L177",
+      "id": "swift_lwpushmanager_lwpushmanager_devicenotificationisallowed",
+      "community": 1,
+      "norm_label": ".devicenotificationisallowed()"
+    },
+    {
+      "label": ".openURL()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L195",
+      "id": "swift_lwpushmanager_lwpushmanager_openurl",
+      "community": 1,
+      "norm_label": ".openurl()"
+    },
+    {
+      "label": "UNUserNotificationCenterDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "unusernotificationcenterdelegate",
+      "community": 0,
+      "norm_label": "unusernotificationcenterdelegate"
+    },
+    {
+      "label": ".userNotificationCenter()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L209",
+      "id": "swift_lwpushmanager_lwpushmanager_usernotificationcenter",
+      "community": 1,
+      "norm_label": ".usernotificationcenter()"
+    },
+    {
+      "label": ".xgPushDidReceiveRemoteNotification()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L234",
+      "id": "swift_lwpushmanager_lwpushmanager_xgpushdidreceiveremotenotification",
+      "community": 1,
+      "norm_label": ".xgpushdidreceiveremotenotification()"
+    },
+    {
+      "label": ".xgPushUserNotificationCenter()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L239",
+      "id": "swift_lwpushmanager_lwpushmanager_xgpushusernotificationcenter",
+      "community": 1,
+      "norm_label": ".xgpushusernotificationcenter()"
+    },
+    {
+      "label": ".xgPushDidFinishStart()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L275",
+      "id": "swift_lwpushmanager_lwpushmanager_xgpushdidfinishstart",
+      "community": 1,
+      "norm_label": ".xgpushdidfinishstart()"
+    },
+    {
+      "label": ".xgPushDidFinishStop()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L279",
+      "id": "swift_lwpushmanager_lwpushmanager_xgpushdidfinishstop",
+      "community": 1,
+      "norm_label": ".xgpushdidfinishstop()"
+    },
+    {
+      "label": ".xgPushDidReportNotification()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L283",
+      "id": "swift_lwpushmanager_lwpushmanager_xgpushdidreportnotification",
+      "community": 1,
+      "norm_label": ".xgpushdidreportnotification()"
+    },
+    {
+      "label": ".xgPushDidSetBadge()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L287",
+      "id": "swift_lwpushmanager_lwpushmanager_xgpushdidsetbadge",
+      "community": 1,
+      "norm_label": ".xgpushdidsetbadge()"
+    },
+    {
+      "label": ".xgPushDidRegisteredDeviceToken()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L291",
+      "id": "swift_lwpushmanager_lwpushmanager_xgpushdidregistereddevicetoken",
+      "community": 1,
+      "norm_label": ".xgpushdidregistereddevicetoken()"
+    },
+    {
+      "label": ".xgPushDidBindWithIdentifier()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L303",
+      "id": "swift_lwpushmanager_lwpushmanager_xgpushdidbindwithidentifier",
+      "community": 1,
+      "norm_label": ".xgpushdidbindwithidentifier()"
+    },
+    {
+      "label": ".xgPushDidUnbindWithIdentifier()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L309",
+      "id": "swift_lwpushmanager_lwpushmanager_xgpushdidunbindwithidentifier",
+      "community": 1,
+      "norm_label": ".xgpushdidunbindwithidentifier()"
+    },
+    {
+      "label": "LWPushSwiftUI.swift",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L1",
+      "id": "lwpusher_swift_swift_lwpushswiftui_swift",
+      "community": 6,
+      "norm_label": "lwpushswiftui.swift"
+    },
+    {
+      "label": "LWPushState",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L15",
+      "id": "swift_lwpushswiftui_lwpushstate",
+      "community": 4,
+      "norm_label": "lwpushstate"
+    },
+    {
+      "label": "ObservableObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "observableobject",
+      "community": 4,
+      "norm_label": "observableobject"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L33",
+      "id": "swift_lwpushswiftui_lwpushstate_init",
+      "community": 4,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".checkAuthorizationStatus()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L36",
+      "id": "swift_lwpushswiftui_lwpushstate_checkauthorizationstatus",
+      "community": 4,
+      "norm_label": ".checkauthorizationstatus()"
+    },
+    {
+      "label": ".updateBadge()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L45",
+      "id": "swift_lwpushswiftui_lwpushstate_updatebadge",
+      "community": 4,
+      "norm_label": ".updatebadge()"
+    },
+    {
+      "label": ".addBoundAccount()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L52",
+      "id": "swift_lwpushswiftui_lwpushstate_addboundaccount",
+      "community": 4,
+      "norm_label": ".addboundaccount()"
+    },
+    {
+      "label": ".removeBoundAccount()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L59",
+      "id": "swift_lwpushswiftui_lwpushstate_removeboundaccount",
+      "community": 4,
+      "norm_label": ".removeboundaccount()"
+    },
+    {
+      "label": "LWPushService",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L69",
+      "id": "swift_lwpushswiftui_lwpushservice",
+      "community": 4,
+      "norm_label": "lwpushservice"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L81",
+      "id": "swift_lwpushswiftui_lwpushservice_init",
+      "community": 4,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".configure()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L84",
+      "id": "swift_lwpushswiftui_lwpushservice_configure",
+      "community": 4,
+      "norm_label": ".configure()"
+    },
+    {
+      "label": ".start()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L89",
+      "id": "swift_lwpushswiftui_lwpushservice_start",
+      "community": 4,
+      "norm_label": ".start()"
+    },
+    {
+      "label": ".stop()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L95",
+      "id": "swift_lwpushswiftui_lwpushservice_stop",
+      "community": 4,
+      "norm_label": ".stop()"
+    },
+    {
+      "label": ".bind()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L100",
+      "id": "swift_lwpushswiftui_lwpushservice_bind",
+      "community": 4,
+      "norm_label": ".bind()"
+    },
+    {
+      "label": ".unbind()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L106",
+      "id": "swift_lwpushswiftui_lwpushservice_unbind",
+      "community": 4,
+      "norm_label": ".unbind()"
+    },
+    {
+      "label": ".setBadge()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L112",
+      "id": "swift_lwpushswiftui_lwpushservice_setbadge",
+      "community": 4,
+      "norm_label": ".setbadge()"
+    },
+    {
+      "label": ".getBadge()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L118",
+      "id": "swift_lwpushswiftui_lwpushservice_getbadge",
+      "community": 4,
+      "norm_label": ".getbadge()"
+    },
+    {
+      "label": ".handleNotification()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L123",
+      "id": "swift_lwpushswiftui_lwpushservice_handlenotification",
+      "community": 7,
+      "norm_label": ".handlenotification()"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L134",
+      "id": "swift_lwpushswiftui_view",
+      "community": 6,
+      "norm_label": "view"
+    },
+    {
+      "label": ".setupPushNotifications()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L138",
+      "id": "swift_lwpushswiftui_view_setuppushnotifications",
+      "community": 4,
+      "norm_label": ".setuppushnotifications()"
+    },
+    {
+      "label": ".bindPushAccount()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L146",
+      "id": "swift_lwpushswiftui_view_bindpushaccount",
+      "community": 4,
+      "norm_label": ".bindpushaccount()"
+    },
+    {
+      "label": ".onPushNotificationTap()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L156",
+      "id": "swift_lwpushswiftui_view_onpushnotificationtap",
+      "community": 6,
+      "norm_label": ".onpushnotificationtap()"
+    },
+    {
+      "label": "PushServiceKey",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L167",
+      "id": "swift_lwpushswiftui_pushservicekey",
+      "community": 6,
+      "norm_label": "pushservicekey"
+    },
+    {
+      "label": "EnvironmentKey",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "environmentkey",
+      "community": 6,
+      "norm_label": "environmentkey"
+    },
+    {
+      "label": "EnvironmentValues",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L172",
+      "id": "swift_lwpushswiftui_environmentvalues",
+      "community": 6,
+      "norm_label": "environmentvalues"
+    },
+    {
+      "label": "PushNotificationBadgeView",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L183",
+      "id": "swift_lwpushswiftui_pushnotificationbadgeview",
+      "community": 6,
+      "norm_label": "pushnotificationbadgeview"
+    },
+    {
+      "label": "LWPushNotificationBanner",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L204",
+      "id": "swift_lwpushswiftui_lwpushnotificationbanner",
+      "community": 6,
+      "norm_label": "lwpushnotificationbanner"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L212",
+      "id": "swift_lwpushswiftui_lwpushnotificationbanner_init",
+      "community": 6,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "LWPushSettingsView",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L261",
+      "id": "swift_lwpushswiftui_lwpushsettingsview",
+      "community": 6,
+      "norm_label": "lwpushsettingsview"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L266",
+      "id": "swift_lwpushswiftui_lwpushsettingsview_init",
+      "community": 6,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "LWPushSwiftExample.swift",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L1",
+      "id": "lwpusher_swift_swift_lwpushswiftexample_swift",
+      "community": 3,
+      "norm_label": "lwpushswiftexample.swift"
+    },
+    {
+      "label": "ExampleAppDelegate",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L14",
+      "id": "swift_lwpushswiftexample_exampleappdelegate",
+      "community": 3,
+      "norm_label": "exampleappdelegate"
+    },
+    {
+      "label": "UIResponder",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "uiresponder",
+      "community": 3,
+      "norm_label": "uiresponder"
+    },
+    {
+      "label": "UIApplicationDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "uiapplicationdelegate",
+      "community": 3,
+      "norm_label": "uiapplicationdelegate"
+    },
+    {
+      "label": ".application()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L16",
+      "id": "swift_lwpushswiftexample_exampleappdelegate_application",
+      "community": 3,
+      "norm_label": ".application()"
+    },
+    {
+      "label": "ExampleViewController",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L63",
+      "id": "swift_lwpushswiftexample_exampleviewcontroller",
+      "community": 3,
+      "norm_label": "exampleviewcontroller"
+    },
+    {
+      "label": "UIViewController",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "uiviewcontroller",
+      "community": 3,
+      "norm_label": "uiviewcontroller"
+    },
+    {
+      "label": ".viewDidLoad()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L65",
+      "id": "swift_lwpushswiftexample_exampleviewcontroller_viewdidload",
+      "community": 3,
+      "norm_label": ".viewdidload()"
+    },
+    {
+      "label": ".setupPushNotifications()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L70",
+      "id": "swift_lwpushswiftexample_exampleviewcontroller_setuppushnotifications",
+      "community": 3,
+      "norm_label": ".setuppushnotifications()"
+    },
+    {
+      "label": ".deinit()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L82",
+      "id": "swift_lwpushswiftexample_exampleviewcontroller_deinit",
+      "community": 3,
+      "norm_label": ".deinit()"
+    },
+    {
+      "label": "ExampleSwiftUIApp",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L90",
+      "id": "swift_lwpushswiftexample_exampleswiftuiapp",
+      "community": 3,
+      "norm_label": "exampleswiftuiapp"
+    },
+    {
+      "label": "App",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "app",
+      "community": 3,
+      "norm_label": "app"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L95",
+      "id": "swift_lwpushswiftexample_exampleswiftuiapp_init",
+      "community": 3,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "ContentView",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L111",
+      "id": "swift_lwpushswiftexample_contentview",
+      "community": 3,
+      "norm_label": "contentview"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "view",
+      "community": 3,
+      "norm_label": "view"
+    },
+    {
+      "label": "StatusRow",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L184",
+      "id": "swift_lwpushswiftexample_statusrow",
+      "community": 3,
+      "norm_label": "statusrow"
+    },
+    {
+      "label": "AdvancedPushExample",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L204",
+      "id": "swift_lwpushswiftexample_advancedpushexample",
+      "community": 7,
+      "norm_label": "advancedpushexample"
+    },
+    {
+      "label": ".setupWithConfiguration()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L208",
+      "id": "swift_lwpushswiftexample_advancedpushexample_setupwithconfiguration",
+      "community": 7,
+      "norm_label": ".setupwithconfiguration()"
+    },
+    {
+      "label": ".handleNotificationWithURL()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L222",
+      "id": "swift_lwpushswiftexample_advancedpushexample_handlenotificationwithurl",
+      "community": 7,
+      "norm_label": ".handlenotificationwithurl()"
+    },
+    {
+      "label": ".bindMultipleAccounts()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L236",
+      "id": "swift_lwpushswiftexample_advancedpushexample_bindmultipleaccounts",
+      "community": 7,
+      "norm_label": ".bindmultipleaccounts()"
+    },
+    {
+      "label": ".handleBackgroundPush()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L243",
+      "id": "swift_lwpushswiftexample_advancedpushexample_handlebackgroundpush",
+      "community": 7,
+      "norm_label": ".handlebackgroundpush()"
+    },
+    {
+      "label": "PushViewModel",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L261",
+      "id": "swift_lwpushswiftexample_pushviewmodel",
+      "community": 3,
+      "norm_label": "pushviewmodel"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L268",
+      "id": "swift_lwpushswiftexample_pushviewmodel_init",
+      "community": 3,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".observePushState()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L272",
+      "id": "swift_lwpushswiftexample_pushviewmodel_observepushstate",
+      "community": 3,
+      "norm_label": ".observepushstate()"
+    },
+    {
+      "label": ".clearAllNotifications()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L287",
+      "id": "swift_lwpushswiftexample_pushviewmodel_clearallnotifications",
+      "community": 3,
+      "norm_label": ".clearallnotifications()"
+    },
+    {
+      "label": "XGPushTypes.swift",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L1",
+      "id": "lwpusher_swift_swift_xgpushtypes_swift",
+      "community": 2,
+      "norm_label": "xgpushtypes.swift"
+    },
+    {
+      "label": "XGPushTokenBindType",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L13",
+      "id": "swift_xgpushtypes_xgpushtokenbindtype",
+      "community": 2,
+      "norm_label": "xgpushtokenbindtype"
+    },
+    {
+      "label": "UInt",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "uint",
+      "community": 2,
+      "norm_label": "uint"
+    },
+    {
+      "label": "none",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L15",
+      "id": "swift_xgpushtypes_xgpushtokenbindtype_none",
+      "community": 2,
+      "norm_label": "none"
+    },
+    {
+      "label": "account",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L17",
+      "id": "swift_xgpushtypes_xgpushtokenbindtype_account",
+      "community": 2,
+      "norm_label": "account"
+    },
+    {
+      "label": "tag",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L19",
+      "id": "swift_xgpushtypes_xgpushtokenbindtype_tag",
+      "community": 2,
+      "norm_label": "tag"
+    },
+    {
+      "label": "XGNotificationActionOptions",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L25",
+      "id": "swift_xgpushtypes_xgnotificationactionoptions",
+      "community": 2,
+      "norm_label": "xgnotificationactionoptions"
+    },
+    {
+      "label": "none",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L27",
+      "id": "swift_xgpushtypes_xgnotificationactionoptions_none",
+      "community": 2,
+      "norm_label": "none"
+    },
+    {
+      "label": "authenticationRequired",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L29",
+      "id": "swift_xgpushtypes_xgnotificationactionoptions_authenticationrequired",
+      "community": 2,
+      "norm_label": "authenticationrequired"
+    },
+    {
+      "label": "destructive",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L31",
+      "id": "swift_xgpushtypes_xgnotificationactionoptions_destructive",
+      "community": 2,
+      "norm_label": "destructive"
+    },
+    {
+      "label": "foreground",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L33",
+      "id": "swift_xgpushtypes_xgnotificationactionoptions_foreground",
+      "community": 2,
+      "norm_label": "foreground"
+    },
+    {
+      "label": "XGNotificationCategoryOptions",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L39",
+      "id": "swift_xgpushtypes_xgnotificationcategoryoptions",
+      "community": 2,
+      "norm_label": "xgnotificationcategoryoptions"
+    },
+    {
+      "label": "none",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L41",
+      "id": "swift_xgpushtypes_xgnotificationcategoryoptions_none",
+      "community": 2,
+      "norm_label": "none"
+    },
+    {
+      "label": "customDismissAction",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L43",
+      "id": "swift_xgpushtypes_xgnotificationcategoryoptions_customdismissaction",
+      "community": 2,
+      "norm_label": "customdismissaction"
+    },
+    {
+      "label": "allowInCarPlay",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L45",
+      "id": "swift_xgpushtypes_xgnotificationcategoryoptions_allowincarplay",
+      "community": 2,
+      "norm_label": "allowincarplay"
+    },
+    {
+      "label": "XGUserNotificationTypes",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L51",
+      "id": "swift_xgpushtypes_xgusernotificationtypes",
+      "community": 2,
+      "norm_label": "xgusernotificationtypes"
+    },
+    {
+      "label": "OptionSet",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "optionset",
+      "community": 2,
+      "norm_label": "optionset"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L54",
+      "id": "swift_xgpushtypes_xgusernotificationtypes_init",
+      "community": 2,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "LWPushConfiguration",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L82",
+      "id": "swift_xgpushtypes_lwpushconfiguration",
+      "community": 7,
+      "norm_label": "lwpushconfiguration"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L96",
+      "id": "swift_xgpushtypes_lwpushconfiguration_init",
+      "community": 7,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "LWPushResult",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L112",
+      "id": "swift_xgpushtypes_lwpushresult",
+      "community": 2,
+      "norm_label": "lwpushresult"
+    },
+    {
+      "label": "success",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L113",
+      "id": "swift_xgpushtypes_lwpushresult_success",
+      "community": 2,
+      "norm_label": "success"
+    },
+    {
+      "label": "failure",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L114",
+      "id": "swift_xgpushtypes_lwpushresult_failure",
+      "community": 2,
+      "norm_label": "failure"
+    },
+    {
+      "label": "LWPushNotificationInfo",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L138",
+      "id": "swift_xgpushtypes_lwpushnotificationinfo",
+      "community": 7,
+      "norm_label": "lwpushnotificationinfo"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L166",
+      "id": "swift_xgpushtypes_lwpushnotificationinfo_init",
+      "community": 7,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "|>()",
+      "file_type": "code",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L176",
+      "id": "swift_xgpushtypes",
+      "community": 2,
+      "norm_label": "|>()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "example_lwpusher_lwappdelegate_m",
+      "target": "lwpusher_lwappdelegate_lwappdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "lwpusher_lwappdelegate_lwappdelegate",
+      "target": "lwpusher_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "lwpusher_lwappdelegate_lwappdelegate",
+      "target": "lwpusher_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "lwpusher_lwappdelegate_lwappdelegate",
+      "target": "lwpusher_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "lwpusher_lwappdelegate_lwappdelegate",
+      "target": "lwpusher_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "lwpusher_lwappdelegate_lwappdelegate",
+      "target": "lwpusher_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWAppDelegate.m",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "lwpusher_lwappdelegate_lwappdelegate",
+      "target": "lwpusher_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWViewController.m",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "example_lwpusher_lwviewcontroller_m",
+      "target": "lwpusher_lwviewcontroller_lwviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWViewController.m",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "lwpusher_lwviewcontroller_lwviewcontroller",
+      "target": "lwpusher_lwviewcontroller_lwviewcontroller_viewdidload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWViewController.m",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "lwpusher_lwviewcontroller_lwviewcontroller",
+      "target": "lwpusher_lwviewcontroller_lwviewcontroller_didreceivememorywarning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWViewController.m",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "lwpusher_lwviewcontroller_lwviewcontroller",
+      "target": "lwpusher_lwviewcontroller_lwviewcontroller_bindaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/LWViewController.m",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "lwpusher_lwviewcontroller_lwviewcontroller",
+      "target": "lwpusher_lwviewcontroller_lwviewcontroller_unbindaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "example_lwpusher_pusher_lwappdelegate_lwpusher_m",
+      "target": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "target": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidregisterusernotificationsettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "target": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidregisterforremotenotificationswithdevicetoken",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "target": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidreceiveremotenotificationfetchcompletionhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "target": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidfailtoregisterforremotenotificationswitherror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "target": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationhandleactionwithidentifierforremotenotificationwithresponseinfocompletionhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "target": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationhandleactionwithidentifierforremotenotificationcompletionhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "target": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationhandleactionwithidentifierforlocalnotificationcompletionhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "target": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationhandleactionwithidentifierforlocalnotificationwithresponseinfocompletionhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "target": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidreceiveremotenotification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPusher/Pusher/LWAppDelegate+LWPusher.m",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "pusher_lwappdelegate_lwpusher_lwappdelegate",
+      "target": "pusher_lwappdelegate_lwpusher_lwappdelegate_applicationdidreceivelocalnotification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwpusher_classes_lwpushmanager_m",
+      "target": "classes_lwpushmanager_lwpushmanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L13",
+      "weight": 1.0,
+      "context": "import",
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "unusernotificationcenterdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_sharemanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_xg_push_test",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_configappidappkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L119",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_startxgpush",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L133",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_stopxgpush",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_bindaccount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_unbindaccount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_handpushinapplicationdidfinishlaunchingwithoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L175",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_handremotepushnotificationwithuserinfo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_usernotificationcenterwillpresentnotificationwithcompletionhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L192",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_usernotificationcenterdidreceivenotificationresponsewithcompletionhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L199",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_usernotificationcenteropensettingsfornotification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L208",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_xgpushdidreceiveremotenotificationwithcompletionhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L214",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_xgpushusernotificationcenterwillpresentnotificationwithcompletionhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L220",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_xgpushusernotificationcenterdidreceivenotificationresponsewithcompletionhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L227",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_xgpushdidfinishstarterror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L231",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_xgpushdidfinishstoperror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L237",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_xgpushdidreportnotificationerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L241",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_xgpushdidsetbadgeerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_xgpushdidregistereddevicetokenerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_xgpushdidbindwithidentifiertypeerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L258",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_xgpushdidunbindwithidentifiertypeerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher/Classes/LWPushManager.m",
+      "source_location": "L266",
+      "weight": 1.0,
+      "source": "classes_lwpushmanager_lwpushmanager",
+      "target": "classes_lwpushmanager_lwpushmanager_openurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushmanager_swift",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L301",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushmanager_swift",
+      "target": "swift_lwpushmanager_lwpushmanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_startxgpush",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L212",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_usernotificationcenter",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L236",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_xgpushdidreceiveremotenotification",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L243",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_xgpushusernotificationcenter",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L276",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_xgpushdidfinishstart",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L280",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_xgpushdidfinishstop",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L284",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_xgpushdidreportnotification",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L288",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_xgpushdidsetbadge",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L292",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_xgpushdidregistereddevicetoken",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L306",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_xgpushdidbindwithidentifier",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L312",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_xgpushdidunbindwithidentifier",
+      "target": "swift_lwpushmanager_pushlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "nsobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_configure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_startxgpush",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_stopxgpush",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_bindaccount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_unbindaccount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_handlepushinapplicationdidfinishlaunching",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_handleremotepushnotification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_setbadgenumber",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_getbadgenumber",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_bindaccountinternal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_devicenotificationisallowed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L195",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_openurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L206",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "unusernotificationcenterdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L223",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_usernotificationcenter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L234",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_xgpushdidreceiveremotenotification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L257",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_xgpushusernotificationcenter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L275",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_xgpushdidfinishstart",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L279",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_xgpushdidfinishstop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L283",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_xgpushdidreportnotification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L287",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_xgpushdidsetbadge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L291",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_xgpushdidregistereddevicetoken",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L303",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_xgpushdidbindwithidentifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L309",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager",
+      "target": "swift_lwpushmanager_lwpushmanager_xgpushdidunbindwithidentifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_lwpushconfiguration",
+      "target": "nsobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_lwpushnotificationinfo",
+      "target": "nsobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_bindaccount",
+      "target": "swift_lwpushmanager_lwpushmanager_startxgpush",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L123",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_handlepushinapplicationdidfinishlaunching",
+      "target": "swift_lwpushmanager_lwpushmanager_startxgpush",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_bindaccount",
+      "target": "swift_lwpushmanager_lwpushmanager_devicenotificationisallowed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_bindaccount",
+      "target": "swift_lwpushmanager_lwpushmanager_bindaccountinternal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L124",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_handlepushinapplicationdidfinishlaunching",
+      "target": "swift_lwpushmanager_lwpushmanager_setbadgenumber",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushManager.swift",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "swift_lwpushmanager_lwpushmanager_handleremotepushnotification",
+      "target": "swift_lwpushmanager_lwpushmanager_openurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftui_swift",
+      "target": "swift_lwpushswiftui_lwpushstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftui_swift",
+      "target": "swift_lwpushswiftui_lwpushservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftui_swift",
+      "target": "swift_lwpushswiftui_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftui_swift",
+      "target": "swift_lwpushswiftui_pushservicekey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L172",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftui_swift",
+      "target": "swift_lwpushswiftui_environmentvalues",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L183",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftui_swift",
+      "target": "swift_lwpushswiftui_pushnotificationbadgeview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L204",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftui_swift",
+      "target": "swift_lwpushswiftui_lwpushnotificationbanner",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L261",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftui_swift",
+      "target": "swift_lwpushswiftui_lwpushsettingsview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushstate",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushstate",
+      "target": "swift_lwpushswiftui_lwpushstate_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushstate",
+      "target": "swift_lwpushswiftui_lwpushstate_checkauthorizationstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushstate",
+      "target": "swift_lwpushswiftui_lwpushstate_updatebadge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushstate",
+      "target": "swift_lwpushswiftui_lwpushstate_addboundaccount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushstate",
+      "target": "swift_lwpushswiftui_lwpushstate_removeboundaccount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L261",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_pushviewmodel",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice_start",
+      "target": "swift_lwpushswiftui_lwpushstate_checkauthorizationstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice_setbadge",
+      "target": "swift_lwpushswiftui_lwpushstate_updatebadge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice_bind",
+      "target": "swift_lwpushswiftui_lwpushstate_addboundaccount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice_unbind",
+      "target": "swift_lwpushswiftui_lwpushstate_removeboundaccount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice",
+      "target": "swift_lwpushswiftui_lwpushservice_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice",
+      "target": "swift_lwpushswiftui_lwpushservice_configure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice",
+      "target": "swift_lwpushswiftui_lwpushservice_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L95",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice",
+      "target": "swift_lwpushswiftui_lwpushservice_stop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice",
+      "target": "swift_lwpushswiftui_lwpushservice_bind",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L106",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice",
+      "target": "swift_lwpushswiftui_lwpushservice_unbind",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice",
+      "target": "swift_lwpushswiftui_lwpushservice_setbadge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice",
+      "target": "swift_lwpushswiftui_lwpushservice_getbadge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L123",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice",
+      "target": "swift_lwpushswiftui_lwpushservice_handlenotification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L140",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_view_setuppushnotifications",
+      "target": "swift_lwpushswiftui_lwpushservice_configure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L141",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_view_setuppushnotifications",
+      "target": "swift_lwpushswiftui_lwpushservice_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_view_bindpushaccount",
+      "target": "swift_lwpushswiftui_lwpushservice_bind",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_view_bindpushaccount",
+      "target": "swift_lwpushswiftui_lwpushservice_unbind",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L125",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushservice_handlenotification",
+      "target": "swift_xgpushtypes_lwpushnotificationinfo"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_view",
+      "target": "swift_lwpushswiftui_view_setuppushnotifications",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L146",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_view",
+      "target": "swift_lwpushswiftui_view_bindpushaccount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_view",
+      "target": "swift_lwpushswiftui_view_onpushnotificationtap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L183",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_pushnotificationbadgeview",
+      "target": "swift_lwpushswiftui_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L204",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushnotificationbanner",
+      "target": "swift_lwpushswiftui_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L261",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushsettingsview",
+      "target": "swift_lwpushswiftui_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_pushservicekey",
+      "target": "environmentkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L212",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushnotificationbanner",
+      "target": "swift_lwpushswiftui_lwpushnotificationbanner_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftUI.swift",
+      "source_location": "L266",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftui_lwpushsettingsview",
+      "target": "swift_lwpushswiftui_lwpushsettingsview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftexample_swift",
+      "target": "swift_lwpushswiftexample_exampleappdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftexample_swift",
+      "target": "swift_lwpushswiftexample_exampleviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L90",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftexample_swift",
+      "target": "swift_lwpushswiftexample_exampleswiftuiapp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftexample_swift",
+      "target": "swift_lwpushswiftexample_contentview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L184",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftexample_swift",
+      "target": "swift_lwpushswiftexample_statusrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L204",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftexample_swift",
+      "target": "swift_lwpushswiftexample_advancedpushexample",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L261",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_lwpushswiftexample_swift",
+      "target": "swift_lwpushswiftexample_pushviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_exampleappdelegate",
+      "target": "uiresponder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_exampleappdelegate",
+      "target": "uiapplicationdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_exampleappdelegate",
+      "target": "swift_lwpushswiftexample_exampleappdelegate_application",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_exampleviewcontroller",
+      "target": "uiviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_exampleviewcontroller",
+      "target": "swift_lwpushswiftexample_exampleviewcontroller_viewdidload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_exampleviewcontroller",
+      "target": "swift_lwpushswiftexample_exampleviewcontroller_setuppushnotifications",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_exampleviewcontroller",
+      "target": "swift_lwpushswiftexample_exampleviewcontroller_deinit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_exampleviewcontroller_viewdidload",
+      "target": "swift_lwpushswiftexample_exampleviewcontroller_setuppushnotifications",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L90",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_exampleswiftuiapp",
+      "target": "app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L95",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_exampleswiftuiapp",
+      "target": "swift_lwpushswiftexample_exampleswiftuiapp_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_contentview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L184",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_statusrow",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L208",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_advancedpushexample",
+      "target": "swift_lwpushswiftexample_advancedpushexample_setupwithconfiguration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L222",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_advancedpushexample",
+      "target": "swift_lwpushswiftexample_advancedpushexample_handlenotificationwithurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L236",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_advancedpushexample",
+      "target": "swift_lwpushswiftexample_advancedpushexample_bindmultipleaccounts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L243",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_advancedpushexample",
+      "target": "swift_lwpushswiftexample_advancedpushexample_handlebackgroundpush",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L209",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_advancedpushexample_setupwithconfiguration",
+      "target": "swift_xgpushtypes_lwpushconfiguration"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L223",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_advancedpushexample_handlenotificationwithurl",
+      "target": "swift_xgpushtypes_lwpushnotificationinfo"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L268",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_pushviewmodel",
+      "target": "swift_lwpushswiftexample_pushviewmodel_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L272",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_pushviewmodel",
+      "target": "swift_lwpushswiftexample_pushviewmodel_observepushstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L287",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_pushviewmodel",
+      "target": "swift_lwpushswiftexample_pushviewmodel_clearallnotifications",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/LWPushSwiftExample.swift",
+      "source_location": "L269",
+      "weight": 1.0,
+      "source": "swift_lwpushswiftexample_pushviewmodel_init",
+      "target": "swift_lwpushswiftexample_pushviewmodel_observepushstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_xgpushtypes_swift",
+      "target": "swift_xgpushtypes_xgpushtokenbindtype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_xgpushtypes_swift",
+      "target": "swift_xgpushtypes_xgnotificationactionoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_xgpushtypes_swift",
+      "target": "swift_xgpushtypes_xgnotificationcategoryoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_xgpushtypes_swift",
+      "target": "swift_xgpushtypes_xgusernotificationtypes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_xgpushtypes_swift",
+      "target": "swift_xgpushtypes_lwpushconfiguration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_xgpushtypes_swift",
+      "target": "swift_xgpushtypes_lwpushresult",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_xgpushtypes_swift",
+      "target": "swift_xgpushtypes_lwpushnotificationinfo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L176",
+      "weight": 1.0,
+      "source": "lwpusher_swift_swift_xgpushtypes_swift",
+      "target": "swift_xgpushtypes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgpushtokenbindtype",
+      "target": "uint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgpushtokenbindtype",
+      "target": "swift_xgpushtypes_xgpushtokenbindtype_none",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgpushtokenbindtype",
+      "target": "swift_xgpushtypes_xgpushtokenbindtype_account",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgpushtokenbindtype",
+      "target": "swift_xgpushtypes_xgpushtokenbindtype_tag",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgnotificationactionoptions",
+      "target": "uint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgnotificationcategoryoptions",
+      "target": "uint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgnotificationactionoptions",
+      "target": "swift_xgpushtypes_xgnotificationactionoptions_none",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgnotificationactionoptions",
+      "target": "swift_xgpushtypes_xgnotificationactionoptions_authenticationrequired",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgnotificationactionoptions",
+      "target": "swift_xgpushtypes_xgnotificationactionoptions_destructive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgnotificationactionoptions",
+      "target": "swift_xgpushtypes_xgnotificationactionoptions_foreground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgnotificationcategoryoptions",
+      "target": "swift_xgpushtypes_xgnotificationcategoryoptions_none",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgnotificationcategoryoptions",
+      "target": "swift_xgpushtypes_xgnotificationcategoryoptions_customdismissaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgnotificationcategoryoptions",
+      "target": "swift_xgpushtypes_xgnotificationcategoryoptions_allowincarplay",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgusernotificationtypes",
+      "target": "optionset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_xgusernotificationtypes",
+      "target": "swift_xgpushtypes_xgusernotificationtypes_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_lwpushconfiguration",
+      "target": "swift_xgpushtypes_lwpushconfiguration_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_lwpushconfiguration_init",
+      "target": "swift_xgpushtypes_lwpushnotificationinfo_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_lwpushresult",
+      "target": "swift_xgpushtypes_lwpushresult_success",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_lwpushresult",
+      "target": "swift_xgpushtypes_lwpushresult_failure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPusher_swift/Swift/XGPushTypes.swift",
+      "source_location": "L166",
+      "weight": 1.0,
+      "source": "swift_xgpushtypes_lwpushnotificationinfo",
+      "target": "swift_xgpushtypes_lwpushnotificationinfo_init",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
